@@ -23,7 +23,7 @@ Assess the tasks and import whatever the libraries are required for you.
 3. Calculate the SoH of the battery for every charge cycle and plot the Charge voltage w.r.t the Capacity. Hint: Overlap all charge curves in a single plot to see the ageing behaviour.
 
 
-Write a brief report about all assumptions and reasoning together with the plots and functions you developed and upload it into the repository along with the raw code. This report might be a jupyter notbook if it's part of the tools you are using.
+Write a brief report about all assumptions and reasoning together with the plots and functions you developed and upload it into a private repository along with the raw code. This report might be a jupyter notbook if it's part of the tools you are using.
 
 ### Task 3 (Bonus):
 
